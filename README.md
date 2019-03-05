@@ -3,7 +3,7 @@
 Please follow the below steps to run the Rest API war<br />
 ----------------------------------------------------<br />
 
-1) Download and copy the war file to 'apache-tomcat/webapps/' folder(tomcat server)<br />
+1) Download and copy the <b>MaxDefAPI.war</b> file to 'apache-tomcat/webapps/' folder(tomcat server)<br />
 2) Start the tomcat<br />
 3) In browser please type the below URL with arguments array elements
 
