@@ -14,4 +14,4 @@ Please follow the below steps to run the Rest API war<br />
 5) After entering url in browser.please type enter to execute rest api<br />
 6) Output will show with Maximum Difference<br />
 
-NOTE:Please find the screenshots of execution<br />
+NOTE:Please find the screenshot <b>Maxdef-RestAPI-Capture.JPG</b> of execution<br />
